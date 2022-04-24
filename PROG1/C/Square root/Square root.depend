@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1650726367 source:c:\users\acer\onedrive\documentos\c\uenf\prog1\square root\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

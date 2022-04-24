@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1650670136 source:c:\users\acer\onedrive\documentos\c\uenf\prog1\vogal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

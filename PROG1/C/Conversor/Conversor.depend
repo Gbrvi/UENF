@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1647900146 source:c:\users\acer\onedrive\documentos\c\uenf\conversor\main.c
+	<stdio.h>
+	<stdlib.h>
+
