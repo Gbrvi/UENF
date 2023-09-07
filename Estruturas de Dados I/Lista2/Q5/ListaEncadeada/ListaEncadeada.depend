@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1686340486 source:c:\almeida\estudos\c\ed1\lista2\q5\listaencadeada\listaencadeada.c
+	<stdio.h>
+	<stdlib.h>
+	"ListaEncadeada.h"
+
+1686340421 c:\almeida\estudos\c\ed1\lista2\q5\listaencadeada\listaencadeada.h
+	<stdbool.h>
+
+1686340579 source:c:\almeida\estudos\c\ed1\lista2\q5\listaencadeada\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ListaEncadeada.h"
+

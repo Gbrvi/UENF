@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1682082075 source:c:\almeida\estudos\c\ed1\q3\algoritmos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

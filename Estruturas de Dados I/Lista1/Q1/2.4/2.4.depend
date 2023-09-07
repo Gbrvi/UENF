@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1680719749 source:c:\almeida\estudos\c\ed1\2.4\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1682079639 source:c:\almeida\estudos\c\ed1\q1\2.4\main.c
+	<stdio.h>
+	<stdlib.h>
+

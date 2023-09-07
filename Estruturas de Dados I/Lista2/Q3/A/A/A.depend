@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1686339127 source:c:\almeida\estudos\c\ed1\lista2\q3\a\a\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"static_queue.h"
+
+1684966371 source:c:\almeida\estudos\c\ed1\lista2\q3\a\a\static_queue.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"static_queue.h"
+
+1684965976 c:\almeida\estudos\c\ed1\lista2\q3\a\a\static_queue.h
+

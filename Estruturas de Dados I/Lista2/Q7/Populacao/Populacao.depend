@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1686255749 source:c:\almeida\estudos\c\ed1\lista2\7\populacao\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<cType.h>
+	<stdbool.h>
+	"populacao.h"
+
+1686255668 c:\almeida\estudos\c\ed1\lista2\7\populacao\populacao.h
+	<stdbool.h>
+
+1686255744 source:c:\almeida\estudos\c\ed1\lista2\7\populacao\populacao.c
+	<stdio.h>
+	<stdlib.h>
+	"populacao.h"
+
+1686261760 source:c:\almeida\estudos\c\ed1\lista2\q7\populacao\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<cType.h>
+	<stdbool.h>
+	"populacao.h"
+
+1686255668 c:\almeida\estudos\c\ed1\lista2\q7\populacao\populacao.h
+	<stdbool.h>
+
+1686255744 source:c:\almeida\estudos\c\ed1\lista2\q7\populacao\populacao.c
+	<stdio.h>
+	<stdlib.h>
+	"populacao.h"
+

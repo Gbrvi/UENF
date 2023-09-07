@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1681230899 source:c:\almeida\estudos\c\ed1\fibo-rec\main.c
+	<stdio.h>
+	<stdlib.h>
+

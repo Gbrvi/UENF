@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1686256010 source:c:\almeida\estudos\c\ed1\lista2\q3\listint\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"listInt.h"
+
+1686255181 c:\almeida\estudos\c\ed1\lista2\q3\listint\listint.h
+	<stdbool.h>
+
+1686255222 source:c:\almeida\estudos\c\ed1\lista2\q3\listint\listint.c
+	<stdio.h>
+	<stdlib.h>
+	"listInt.h"
+
+1686255222 source:c:\almeida\estudos\c\ed1\lista2\q5\listint\listint.c
+	<stdio.h>
+	<stdlib.h>
+	"listInt.h"
+
+1686255181 c:\almeida\estudos\c\ed1\lista2\q5\listint\listint.h
+	<stdbool.h>
+
+1686340071 source:c:\almeida\estudos\c\ed1\lista2\q5\listint\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"listInt.h"
+

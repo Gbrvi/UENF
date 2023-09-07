@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1686164837 source:c:\almeida\estudos\c\ed1\lista2\q5\polinomio\polinomio.c
+	<stdio.h>
+	<stdlib.h>
+	"Polinomio.h"
+
+1686164870 c:\almeida\estudos\c\ed1\lista2\q5\polinomio\polinomio.h
+	<stdbool.h>
+
+1686164888 source:c:\almeida\estudos\c\ed1\lista2\q5\polinomio\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Polinomio.h"
+
+1686161142 c:\almeida\estudos\c\ed1\lista2\q5\polinomio\polinomio.c
+	<stdio.h>
+	<stdlib.h>
+	"Polinomio.h"
+
+1686350403 source:c:\almeida\estudos\c\ed1\lista2\q6\polinomio\polinomio.c
+	<stdio.h>
+	<stdlib.h>
+	"Polinomio.h"
+
+1686348673 c:\almeida\estudos\c\ed1\lista2\q6\polinomio\polinomio.h
+	<stdbool.h>
+
+1686350438 source:c:\almeida\estudos\c\ed1\lista2\q6\polinomio\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Polinomio.h"
+
