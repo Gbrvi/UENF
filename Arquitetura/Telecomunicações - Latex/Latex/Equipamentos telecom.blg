@@ -1,0 +1,54 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: Equipamentos telecom.aux
+Reallocating 'name_of_file' (item size: 1) to 6 items.
+The style file: alpha.bst
+Reallocating 'name_of_file' (item size: 1) to 16 items.
+Database file #1: referencias.bib
+Warning--to sort, need author or key in noauthor_2021-xh
+Warning--to sort, need author or key in noauthor_undated-ka
+Warning--to sort, need author or key in noauthor_2005-ns
+Warning--empty journal in Burgt2003
+Warning--empty journal in Rezgui2021
+You've used 14 entries,
+            2543 wiz_defined-function locations,
+            641 strings with 6513 characters,
+and the built_in function-call counts, 3658 in all, are:
+= -- 360
+> -- 91
+< -- 11
++ -- 25
+- -- 22
+* -- 181
+:= -- 589
+add.period$ -- 46
+call.type$ -- 14
+change.case$ -- 66
+chr.to.int$ -- 14
+cite$ -- 22
+duplicate$ -- 174
+empty$ -- 327
+format.name$ -- 42
+if$ -- 761
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 8
+newline$ -- 77
+num.names$ -- 33
+pop$ -- 105
+preamble$ -- 1
+purify$ -- 81
+quote$ -- 0
+skip$ -- 142
+stack$ -- 0
+substring$ -- 104
+swap$ -- 12
+text.length$ -- 11
+text.prefix$ -- 9
+top$ -- 0
+type$ -- 108
+warning$ -- 5
+while$ -- 22
+width$ -- 19
+write$ -- 175
+(There were 5 warnings)
