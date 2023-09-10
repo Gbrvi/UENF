@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1694365605 source:c:\almeida\estudos\c\ed2\mergesort\mergesort\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	"merge.h"
+
+1694365498 c:\almeida\estudos\c\ed2\mergesort\mergesort\merge.h
+
+1694365565 source:c:\almeida\estudos\c\ed2\mergesort\mergesort\merge.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	"merge.h"
+
