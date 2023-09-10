@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1694366323 source:c:\almeida\estudos\c\ed2\l1\heapsort\heap.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"heap.h"
+
+1694366173 c:\almeida\estudos\c\ed2\l1\heapsort\heap.h
+
