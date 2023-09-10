@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1693853046 source:c:\almeida\estudos\c\ed2\mergesort\quicksort\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1694365841 source:c:\almeida\estudos\c\ed2\quicksort\quick.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"quick.h"
+
+1694365807 c:\almeida\estudos\c\ed2\quicksort\quick.h
+
