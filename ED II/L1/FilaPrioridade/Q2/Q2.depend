@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1695233105 source:c:\users\gvalm\downloads\q2\q2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"vet2.c"
+
+1695233505 c:\users\gvalm\downloads\q2\q2\vet2.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"vet2.h"
+
+1695232789 c:\users\gvalm\downloads\q2\q2\vet2.h
+
