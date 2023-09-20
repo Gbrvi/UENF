@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1695058239 source:c:\users\gabriel\desktop\costa\estudos\uenf\estrutura de dados 2\trabalhos\lista 1\3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"radix.h"
+
+1695058049 c:\users\gabriel\desktop\costa\estudos\uenf\estrutura de dados 2\trabalhos\lista 1\3\radix.h
+
+1695233712 source:c:\users\gvalm\downloads\3(2)\3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"radix.c"
+
+1695233707 c:\users\gvalm\downloads\3(2)\3\radix.h
+
+1695058239 c:\users\gvalm\downloads\3(2)\3\radix.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"radix.h"
+
