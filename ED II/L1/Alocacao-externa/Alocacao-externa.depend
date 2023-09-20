@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1694296135 source:c:\almeida\estudos\c\ed2\mergesort\alocacao-externa\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1695253101 source:c:\almeida\estudos\uenf\4º período\ed ii\l1\alocacao-externa\alocacao.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"alocacao.h"
+
+1695253068 c:\almeida\estudos\uenf\4º período\ed ii\l1\alocacao-externa\alocacao.h
+
