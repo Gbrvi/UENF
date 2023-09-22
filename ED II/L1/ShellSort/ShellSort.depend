@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1695341722 source:c:\almeida\estudos\c\ed2\l1\shellsort\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
