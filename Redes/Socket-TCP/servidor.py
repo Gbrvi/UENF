@@ -24,7 +24,7 @@ def Aceitar_conexao(servidor):
 def Receber_msg(conexao, ip):
     while True:
         # Recebe a mensagem envida em Bytes
-        msg_bytes, _ = conexao.recvfrom(2048)
+        msg_bytes = conexao.recv(2048)
         msg_string = msg_bytes.decode() # Decodifica a msg para string
         print(f'Mensagem recebida: {msg_string} do cliente {ip}') 
         if msg_string == '00': # Caractere especial para encerrar
