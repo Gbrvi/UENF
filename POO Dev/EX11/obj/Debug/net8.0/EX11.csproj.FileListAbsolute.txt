@@ -1,0 +1,14 @@
+C:\Users\gvalm\source\repos\EX11\bin\Debug\net8.0\EX11.exe
+C:\Users\gvalm\source\repos\EX11\bin\Debug\net8.0\EX11.deps.json
+C:\Users\gvalm\source\repos\EX11\bin\Debug\net8.0\EX11.runtimeconfig.json
+C:\Users\gvalm\source\repos\EX11\bin\Debug\net8.0\EX11.dll
+C:\Users\gvalm\source\repos\EX11\bin\Debug\net8.0\EX11.pdb
+C:\Users\gvalm\source\repos\EX11\obj\Debug\net8.0\EX11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gvalm\source\repos\EX11\obj\Debug\net8.0\EX11.AssemblyInfoInputs.cache
+C:\Users\gvalm\source\repos\EX11\obj\Debug\net8.0\EX11.AssemblyInfo.cs
+C:\Users\gvalm\source\repos\EX11\obj\Debug\net8.0\EX11.csproj.CoreCompileInputs.cache
+C:\Users\gvalm\source\repos\EX11\obj\Debug\net8.0\EX11.dll
+C:\Users\gvalm\source\repos\EX11\obj\Debug\net8.0\refint\EX11.dll
+C:\Users\gvalm\source\repos\EX11\obj\Debug\net8.0\EX11.pdb
+C:\Users\gvalm\source\repos\EX11\obj\Debug\net8.0\EX11.genruntimeconfig.cache
+C:\Users\gvalm\source\repos\EX11\obj\Debug\net8.0\ref\EX11.dll
