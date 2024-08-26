@@ -1,1 +1,21 @@
-Exercícios de POO DEV feitos em C# 
+🚀 Lista de Exercícios de Programação Orientada a Objetos (POO) em C#
+
+Minha lista de exercícios de Programação Orientada a Objetos (POO) desenvolvidos em C# para disciplina da UENF
+
+📋 Sobre os Exercícios
+
+Os exercícios neste repositório cobrem uma ampla gama de conceitos fundamentais de POO, incluindo:
+
+    Classes e Objetos: Estruturação de código em torno de entidades do mundo real.
+    Encapsulamento: Controle do acesso a dados e comportamento dos objetos.
+    Herança: Criação de hierarquias de classes e reutilização de código.
+    Polimorfismo: Implementação de métodos com comportamento dinâmico.
+    Associação, Agregação e Composição: Relacionamentos entre objetos.
+    Interfaces e Abstração: Definição de contratos e ocultação de detalhes de implementação.
+    Coleções e Generics: Trabalho com listas, arrays e tipos genéricos para manipulação de conjuntos de dados.
+
+🛠️ Requisitos
+
+    C# Certifique-se de ter o .NET SDK instalado em sua máquina para compilar e executar os exercícios.
+    IDE: Recomendo o uso do Visual Studio
+
